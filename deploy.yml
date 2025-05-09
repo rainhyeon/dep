@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: 217026896236.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:10
+        image: rainhyeon/spring:10
