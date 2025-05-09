@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: rainhyeon/spring:10
+        image: rainhyeon/spring:5
